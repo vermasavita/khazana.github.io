@@ -19,7 +19,7 @@ const Main = () => {
               JavaScript, ReactJs, Redux, HTML and CSS.
             </p>
             <div className="button-greeting-div">
-              <div>
+              <div className="h">
                 <a className="main-button" href="https://drive.google.com/drive/u/0/folders/1n6gBw_MtewcHjj5Bfhg5tKaLZ1meklZt" target="_blank">
                   My Resume
                 </a>
