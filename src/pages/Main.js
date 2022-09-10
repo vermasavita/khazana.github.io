@@ -15,7 +15,7 @@ const Main = () => {
             </h1>
             <p className="greeting-text-p subTitle">
               A passionate Frontend Developer. I am having an experience of
-              building 5 personal fully responsive web applications with
+              building 5 fully responsive web applications with
               JavaScript, ReactJs, Redux, HTML and CSS.
             </p>
             <div className="button-greeting-div">
