@@ -26,7 +26,7 @@ const blogData = [
     id: uuid(),
     title: "Async & Defer HTML Attributes",
     content:
-    "Async & Defer are boolean attributes that are used along with script tags to load the external script efficiently"
+    "Async & Defer are boolean attributes that are used along with script tags to load the external script efficiently",
     link: "https://savitaverma.hashnode.dev/understanding-async-defer-html-attributes",
   },
   {
