@@ -22,6 +22,20 @@ const blogData = [
       "Arrow functions were introduced in ES6 version of JavaScript. It is a new way to write an anonymous function with some extra benefits and limitations. We cannot use arrow function in all the situations though",
     link: "https://savitaverma.hashnode.dev/master-the-arrow-function",
   },
+  {
+    id: uuid(),
+    title: "Async & Defer HTML Attributes",
+    content:
+    "Async & Defer are boolean attributes that are used along with script tags to load the external script efficiently"
+    link: "https://savitaverma.hashnode.dev/understanding-async-defer-html-attributes",
+  },
+  {
+    id: uuid(),
+    title: "Event Bubbling v/s Event Capturing",
+    content:
+      "We will understand event listeners before understanding event bubbling & event capturing. An event listener is nothing but a function that gets executed when an event happens and that event can be anything like onclick event, onchange event, pressing key, etc.",
+    link: "https://savitaverma.hashnode.dev/event-bubbling-vs-event-capturing",
+  },
 ];
 
 export { blogData };
